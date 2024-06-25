@@ -1,0 +1,3 @@
+clarifai
+python-dotenv
+streamlit
